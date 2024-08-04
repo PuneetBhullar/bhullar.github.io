@@ -1,3 +1,3 @@
 # bhullar.github.io
 
-Hello! Initial commit.
+Hello! This is Puneet Bhullar's personal website.
